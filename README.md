@@ -97,6 +97,20 @@
 - [Power BI](https://powerbi.microsoft.com/es-es/)
 
 
+### Dream Team ⚡, el mejor equipo del Bootcamp:
+<a href="https://github.com/Nahuel-DevOne">
+  <img styles="rounded" width="60" src="img/Nahue.png" />
+</a>
+<a href="https://github.com/Nahuel-DevOne">
+  <img width="50" src="img/Quillo.jpg" />
+</a>
+<a href="https://github.com/Nahuel-DevOne">
+  <img width="43.5" src="img/Javi.jpg" />
+</a>
+<a href="https://github.com/Nahuel-DevOne">
+  <img width="43.5" src="img/Mariana.jpg" />
+</a>
+
 <!-- ### **`Screenshots:`** -->
 
 <!-- ### 1. Home:
